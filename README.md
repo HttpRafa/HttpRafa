@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Just a 17 year old hobby software developer trying to make good software.</h3>
+<h3 align="center">Just a 18 year old hobby software developer trying to make good software.</h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
