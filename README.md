@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Just a 18 year old hobby software developer trying to make good software.</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Rust**
 
 - ⚡ Fun fact **If I do it without anyone looking, it works. But with someone looking, it doesn't.**
 
