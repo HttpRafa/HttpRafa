@@ -36,5 +36,5 @@
 
 ### 🛠️ Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=httprafa&theme=github-dark&hide_border=true" alt="Streak" />
+  <img src="https://ghstats.dev/api/card?username=HttpRafa" alt="GitHub Stats Card" />
 </div>
