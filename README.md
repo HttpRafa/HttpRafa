@@ -36,5 +36,5 @@
 
 ### 🛠️ Activity
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=HttpRafa" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=HttpRafa&custom_title=My+Stats" alt="GitHub Stats Card" />
 </div>
